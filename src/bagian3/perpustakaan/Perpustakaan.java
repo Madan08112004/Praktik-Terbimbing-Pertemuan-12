@@ -42,7 +42,6 @@ public class Perpustakaan {
         return jumlah;
     }
 
-    // Penambahan Method Latihan 3.4
     public void kembalikanBuku(String judul) {
         for (Buku b : koleksi) {
             if (b.getJudul().equals(judul)) {

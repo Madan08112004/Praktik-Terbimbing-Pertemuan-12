@@ -14,10 +14,10 @@ public class MainPerpustakaan {
         perpus.pinjamBuku("Bumi Manusia");
         
         System.out.println();
-        perpus.kembalikanBuku("Bumi Manusia"); // Uji coba kembalikan buku
+        perpus.kembalikanBuku("Bumi Manusia");
         
         System.out.println();
-        perpus.cariPenulis("Andrea Hirata"); // Uji coba cari penulis
+        perpus.cariPenulis("Andrea Hirata");
 
         System.out.println();
         perpus.tampilkanKoleksi();
