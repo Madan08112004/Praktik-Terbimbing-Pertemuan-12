@@ -1,0 +1,2 @@
+bagian1
+LatihanMandiri
